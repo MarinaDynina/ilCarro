@@ -25,6 +25,9 @@
       </state>
     </system>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ilCarro" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -65,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.RegistrationTests">
+  <component name="RunManager" selected="Gradle.Tests in 'com.qa.ilCarro.tests'">
     <configuration name="OpenSite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -126,8 +129,29 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="Tests in 'com.qa.ilCarro.tests'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.qa.ilCarro.tests.*&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Tests in 'com.qa.ilCarro.tests'" />
         <item itemvalue="Gradle.RegistrationTests" />
         <item itemvalue="Gradle.OpenSite" />
         <item itemvalue="Gradle.OpenSite.isSiteOpenOnSearchPage" />
