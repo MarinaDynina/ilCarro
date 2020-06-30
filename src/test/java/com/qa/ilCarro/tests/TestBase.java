@@ -12,7 +12,7 @@ import org.testng.annotations.BeforeSuite;
 
 import java.lang.reflect.Method;
 import java.util.Arrays;
-
+;// line is empty
 public class TestBase {
 
     protected static ApplicationManager app = new ApplicationManager(System.getProperty("browser", BrowserType.CHROME));
