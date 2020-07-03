@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.qa.ilCarro.tests.RegistrationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-30T18:38:59" hostname="DESKTOP-NPA4CH3" time="41.599">
-  <properties/>
-  <testcase name="registrationFromHeader" classname="com.qa.ilCarro.tests.RegistrationTests" time="41.599"/>
-  <system-out><![CDATA[21:38:59.061 [Test worker] INFO  com.qa.ilCarro.tests.TestBase - Start test registrationFromHeader with parametrs []
-21:39:40.662 [Test worker] INFO  com.qa.ilCarro.tests.TestBase - Stop test registrationFromHeader
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

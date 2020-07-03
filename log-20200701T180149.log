@@ -1,0 +1,4 @@
+18:02:09.610 [Test worker] INFO  com.qa.ilCarro.tests.TestBase - Start test isSiteOpenOnSearchPage with parametrs []
+18:02:09.654 [Test worker] INFO  com.qa.ilCarro.tests.TestBase - Stop test isSiteOpenOnSearchPage
+18:02:09.659 [Test worker] INFO  com.qa.ilCarro.tests.TestBase - Start test registrationFromHeader with parametrs []
+18:02:51.789 [Test worker] INFO  com.qa.ilCarro.tests.TestBase - Stop test registrationFromHeader
